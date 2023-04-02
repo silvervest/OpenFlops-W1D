@@ -1,4 +1,4 @@
-19879898603768768
+19913034199678449
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -78022,6 +78022,27 @@ LEM Hall Effect Voltage transducer
 5
 5
 Silvestron Components
+64-mini-dpad
+
+
+0
+0
+0
+Silvestron Components
+64-mini-keyboard
+
+
+0
+0
+0
+Silvestron Components
+64-mini-pewpew
+
+
+0
+0
+0
+Silvestron Components
 1072
 1072-2
 Integrated Circuit
@@ -78042,6 +78063,13 @@ AMPHENOL_10118194-0001LF
 0
 11
 11
+Silvestron Components
+Adam_Tech_PCB-C5-26-SA-SMT_1x26_P1.00mm_Horizontal
+Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0260, 26 Circuits (https://www.molex.com/pdm_docs/sd/2005280260_sd.pdf), generated with kicad-footprint-generator
+connector Molex  top entry
+0
+26
+26
 Silvestron Components
 BASIC_ROM_DIP-24_W15.24mm_Socket
 24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
@@ -78099,6 +78127,13 @@ Conn_uSDcard
 13
 9
 Silvestron Components
+Crystal_SMD_HC49-US
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
+SMD SMT crystal
+0
+2
+2
+Silvestron Components
 DIN-6
 
 
@@ -78127,6 +78162,41 @@ Fuseholder_5x20mm_RS-PRO
 4
 2
 Silvestron Components
+ILI9341
+Hirose FH12, FFC/FPC connector, FH12-40S-0.5SH, 40 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+42
+41
+Silvestron Components
+KLP42X-61-WW
+
+
+0
+6
+6
+Silvestron Components
+LED_D3.0mm_SMD_W1D
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins
+0
+2
+2
+Silvestron Components
+MDJ-009
+
+
+0
+12
+10
+Silvestron Components
+MountingHole_2.2mm_M2_NoPad
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+0
+0
+Silvestron Components
 NES_Dpad_Conn
 
 
@@ -78137,6 +78207,20 @@ Silvestron Components
 OLED_128x64
 Through hole straight pin header, 1x04, 2.54mm pitch, single row
 Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+Silvestron Components
+OLED_daughter
+
+
+0
+4
+4
+Silvestron Components
+OLED_daughter_mount
+
+
 0
 4
 4
@@ -78154,6 +78238,41 @@ PS2_FDD
 0
 40
 40
+Silvestron Components
+PinSocket_2x17_P2.54mm_Horizontal_Mirrored
+Through hole angled socket strip, 2x17, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
+Through hole angled socket strip THT 2x17 2.54mm double row
+0
+34
+34
+Silvestron Components
+RP2040
+
+
+0
+57
+57
+Silvestron Components
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+Silvestron Components
+RPi_Pico_SMD
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+43
+43
+Silvestron Components
+RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
 Silvestron Components
 RS_PRO_Spade_PCB
 
@@ -78183,12 +78302,33 @@ SOP65P640X120-20N
 20
 20
 Silvestron Components
+SW_PTS_647_SM38_SMTR2_LFS
+
+
+0
+4
+4
+Silvestron Components
+SW_SPST_PTS647
+C&K Components SPST SMD PTS645 Series 6mm Tact Switch
+SPST Button Switch
+0
+4
+2
+Silvestron Components
 SolderWirePad_1x01_SMD_1.5x4mm
 Wire Pad, Square, SMD Pad,  5mm x 10mm,
 MesurementPoint Square SMDPad 5mmx10mm 
 0
 2
 1
+Silvestron Components
+TOR-2113
+
+
+0
+5
+4
 Silvestron Components
 Tensility_54-00174_3.5mm_TRRS
 
