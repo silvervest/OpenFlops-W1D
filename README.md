@@ -16,8 +16,11 @@ While this design is specifically made for the W1D when used in an LTE Elite lap
 Additionally, I made this with a few specific parts in mind - they are as follows:
 
 * J1 - 26-pin FPC connector, part no. PCB-C5-26-SA-SMT
+* J2 - USB-A port, part no. GCT USB1046
+* J7 - microSD slot, part no. TF-114
 * OLED - Any generic 128x64 0.96" OLED (WAVGAT on AliExpress)
 * SPKR1 - Piezo buzzer, part no. CPT-9019S-SMT-TR
+* SW3 - Slide switch, part no. MSK-12C02
 
 ## The rest of this README is from upstream OpenFlops!
 
