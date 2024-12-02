@@ -3,6 +3,8 @@ OpenFlops is an Open Hardware Floppy Disk Drive emulator/simulator.
 
 OpenFlops W1D is a complete modification for the original OpenFlops specifically configured for use replacing the flaky Citizen W1D floppy drives, popularly used in Compaq LTE Elite laptops.
 
+For a lot more detail, installation and usage guides, visit https://silvestron.com/openflops-w1d/
+
 ![Board](img/w1d-render.png)
 
 ![Installed](img/installed.jpg)
