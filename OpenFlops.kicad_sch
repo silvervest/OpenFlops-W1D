@@ -13898,7 +13898,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_A_Receptacle_GCT_USB1046"
+		(property "Footprint" "Connector_USB:USB_A_TE_292303-7_Horizontal"
 			(at 78.486 27.432 0)
 			(effects
 				(font
@@ -13925,7 +13925,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C42637"
+		(property "LCSC" "C2763369"
 			(at 82.296 26.162 0)
 			(effects
 				(font

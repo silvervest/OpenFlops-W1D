@@ -1,4 +1,4 @@
-24233430478122310
+24238676068445277
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63889,6 +63889,20 @@ CUI_RCJ-047
 2
 2
 KiCad Components
+Compaq_SLT286_Memory_Module_Edge
+Highspeed card edge connector for PCB's with 30 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+60
+60
+KiCad Components
+Compaq_SLT286_RAM
+Edge connector
+
+0
+60
+60
+KiCad Components
 Conn_USBmicro-B_ebay-side_TH
 
 
@@ -64089,7 +64103,7 @@ SIMM_30pin
 
 
 0
-60
+90
 30
 KiCad Components
 SOJ-26-20_8.89x17.4mm_P1.27mm
@@ -64140,6 +64154,13 @@ Tensility_54-00174_3.5mm_TRRS
 0
 5
 4
+KiCad Components
+TestPoint_Pad_D1.0mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
 KiCad Components
 Transformer_Block_VC_10-2-9
 
